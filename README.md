@@ -1,4 +1,4 @@
-<?php
+```javascript
 /*
   █████╗ ███╗   ██╗ █████╗ ███████╗████████╗ █████╗ ███████╗██╗ █████╗ 
  ██╔══██╗████╗  ██║██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║██╔══██╗
@@ -31,7 +31,8 @@ $isMentor = true;
 // 🎧 **Passions outside of coding**
 $hobbies = ["Playing violin 🎻 and piano 🎹", "Exploring new technologies 💻"];
 
-?>
+```
+
 
 ## ✨ **About me**
 I am a **fullstack** developer with real experience solving problems with code and empathy.
@@ -67,7 +68,7 @@ Thanks for visiting my README. May the code and rhythm be with you!
 
 
 
-
+```javascript
 /* 
   ╔══════════════════════════════════════════════════╗
   ║  Fullstack Developer | Code Mentor | Music Lover  ║
@@ -96,33 +97,36 @@ $isMentor = true;
 // 🎧 **Pasiones fuera del código**
 $hobbies = ["Tocar violín 🎻 y piano 🎹", "Explorar nuevas tecnologías 💻"];
 
-?>
+```
 
 ## ✨ Sobre mí
 Soy una desarrolladora **fullstack** con experiencia real resolviendo problemas con código y empatía.
 Con un enfoque especial en **backend con PHP**, me encanta crear **interfaces dinámicas** que ofrezcan una experiencia de usuario fluida e intuitiva, todo ello respaldado por la eficiencia de **jQuery** y **DataTables**.
 
-## 💬 **Mentora y apasionada por la enseñanza**: Me encanta ayudar a otros a crecer y mejorar sus habilidades, compartiendo experiencias y conocimientos.  
-📚 Siempre busco nuevas herramientas, lenguajes y frameworks para seguir aprendiendo.  
+## 💬 **Mentora y apasionada por la enseñanza**: Me encanta ayudar a otros a crecer y mejorar sus habilidades, compartiendo experiencias y conocimientos.     
+📚 Siempre busco nuevas herramientas, lenguajes y frameworks para seguir aprendiendo.    
 🎶 La lógica del código tiene ritmo, igual que la música.
 
 ## 🔥 Cosas que he hecho recientemente
 - Construcción de interfaces reactivas y limpias con Bootstrap + JS
 - Consumo y documentación de **APIs REST** con **Postman** para mejorar la integración y el rendimiento.
 - Automatización de flujos internos
-- **Mentoría** y revisión de código para nuevos integrantes del equipo, ayudándoles a integrarse y mejorar sus habilidades.
+- Mentoría y revisión de código para nuevos miembros del equipo, facilitando su integración y ayudándolos a potenciar sus habilidades.
 - Git flow con Bitbucket y Monday como base operativa ágil
 
 ## 🧠 Mis habilidades en constante evolución
+
 - 🌐 Node.js + Express  
 - ⚛️ React
 - 🐳 Docker para entornos ágiles  
 - 📐 Workbench para diseño y queries  
+
 
 ## 📬 ¿Cómo contactarme?
 - [LinkedIn](https://www.linkedin.com/in/anastasia-kosovets-00022917b)  
 - [GitHub](https://github.com/AnastasiaKosovets)  
 - [Email](mailto:anastasiakosovets@gmail.com)
 
-## 🎤 **Cierre del script**
+## 🎤 **Cierre del script
 Gracias por visitar mi README. ¡Que el código y el ritmo te acompañen!
+
