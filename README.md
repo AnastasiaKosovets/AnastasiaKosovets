@@ -42,7 +42,7 @@ With a special focus on **backend with PHP**, I love building **dynamic interfac
 📚 Always looking for new tools, languages, and frameworks to keep learning.  
 🎶 The logic of code has rhythm, just like music.
 <div align="center">
-  <img src="./coding_music.png" alt="Coding and Music" width="30%" style="border-radius: 100px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+  <img src="./fullstack.png" alt="Coding stack" style="max-width: 400px; width: 100%; height: auto;">
 </div>
 
 ### 🔥 **Things I've done recently**
@@ -110,7 +110,7 @@ Con un enfoque especial en **backend con PHP**, me encanta crear **interfaces di
 📚 Siempre busco nuevas herramientas, lenguajes y frameworks para seguir aprendiendo.    
 🎶 La lógica del código tiene ritmo, igual que la música.
 <div align="center">
-  <img src="./coding_music.png" alt="Coding and Music" width="30%" style="border-radius: 100px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+  <img src="./fullstack.png" alt="Coding stack" style="max-width: 400px; width: 100%; height: auto;">
 </div>
 
 ### 🔥 **Cosas que he hecho recientemente**
