@@ -41,9 +41,9 @@ With a special focus on **backend with PHP**, I love building **dynamic interfac
 ### 💬 **Mentor and passionate about teaching**: I love helping others grow and improve their skills by sharing experiences and knowledge.  
 📚 Always looking for new tools, languages, and frameworks to keep learning.  
 🎶 The logic of code has rhythm, just like music.
-<p align="center">
-  <img src="./coding_music.png" alt="Coding and Music" style="border-radius: 100px;" width="30%">
-</p>
+<div align="center">
+  <img src="./coding_music.png" alt="Coding and Music" width="30%" style="border-radius: 100px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+</div>
 
 ### 🔥 **Things I've done recently**
 - Building clean, reactive interfaces with Bootstrap + JS
@@ -109,9 +109,9 @@ Con un enfoque especial en **backend con PHP**, me encanta crear **interfaces di
 ### 💬 **Mentora y apasionada por la enseñanza**: Me encanta ayudar a otros a crecer y mejorar sus habilidades, compartiendo experiencias y conocimientos.     
 📚 Siempre busco nuevas herramientas, lenguajes y frameworks para seguir aprendiendo.    
 🎶 La lógica del código tiene ritmo, igual que la música.
-<p align="center">
-  <img src="./coding_music.png" alt="Coding and Music" style="border-radius: 100px;" width="30%">
-</p>
+<div align="center">
+  <img src="./coding_music.png" alt="Coding and Music" width="30%" style="border-radius: 100px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+</div>
 
 ### 🔥 **Cosas que he hecho recientemente**
 - Construcción de interfaces reactivas y limpias con Bootstrap + JS
